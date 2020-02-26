@@ -1,0 +1,74 @@
+DEBUG 2020-02-26 10:24:04,856 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-02-26 10:24:05,020 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-02-26 10:24:05,076 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpTestPlus.Web.Host.Startup.AbpTestPlusWebHostModule, AbpTestPlus.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,081 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpTestPlus.AbpTestPlusWebCoreModule, AbpTestPlus.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,082 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpTestPlus.AbpTestPlusApplicationModule, AbpTestPlus.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,084 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpTestPlus.AbpTestPlusCoreModule, AbpTestPlus.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,086 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,088 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,088 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,089 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,089 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpTestPlus.EntityFrameworkCore.AbpTestPlusEntityFrameworkModule, AbpTestPlus.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,090 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,090 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,091 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,091 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,092 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,092 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:05,098 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-02-26 10:24:05,295 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:24:05,296 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:24:05,296 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpTestPlus (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:24:05,296 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:24:05,689 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: AbpTestPlus.EntityFrameworkCore.AbpTestPlusDbContext, AbpTestPlus.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:24:06,783 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-02-26 10:24:06,913 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-02-26 10:24:06,957 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-02-26 10:24:06,978 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpTestPlus
+DEBUG 2020-02-26 10:24:07,004 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-02-26 10:24:07,219 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-02-26 10:24:07,372 [1    ] rization.Users.UserTokenExpirationWorker - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker
+DEBUG 2020-02-26 10:24:07,419 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2020-02-26 10:24:07,419 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AbpTestPlus.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-02-26 10:24:07,428 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AbpTestPlus.Users.Dto.CreateUserDto
+DEBUG 2020-02-26 10:24:07,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AbpTestPlus.Users.Dto.UserDto
+DEBUG 2020-02-26 10:24:07,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AbpTestPlus.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-02-26 10:24:07,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AbpTestPlus.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-02-26 10:24:07,430 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AbpTestPlus.Roles.Dto.PermissionDto
+DEBUG 2020-02-26 10:24:07,431 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AbpTestPlus.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-02-26 10:24:07,431 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AbpTestPlus.MultiTenancy.Dto.TenantDto
+INFO  2020-02-26 10:24:13,210 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2020-02-26 10:24:13,210 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2020-02-26 10:24:13,295 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 91.4043ms 200 
+INFO  2020-02-26 10:24:13,516 [15   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'AbpTestPlus.Web.Host.Controllers.HomeController.Index (AbpTestPlus.Web.Host)'
+INFO  2020-02-26 10:24:16,496 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action AbpTestPlus.Web.Host.Controllers.HomeController.Index (AbpTestPlus.Web.Host)
+INFO  2020-02-26 10:24:17,573 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method AbpTestPlus.Web.Host.Controllers.HomeController.Index (AbpTestPlus.Web.Host) - Validation state: Valid
+INFO  2020-02-26 10:24:17,579 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method AbpTestPlus.Web.Host.Controllers.HomeController.Index (AbpTestPlus.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 2.0962ms.
+INFO  2020-02-26 10:24:17,681 [6    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-02-26 10:24:17,696 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action AbpTestPlus.Web.Host.Controllers.HomeController.Index (AbpTestPlus.Web.Host) in 1194.5476ms
+INFO  2020-02-26 10:24:17,699 [6    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'AbpTestPlus.Web.Host.Controllers.HomeController.Index (AbpTestPlus.Web.Host)'
+INFO  2020-02-26 10:24:17,723 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4521.1401ms 302 
+INFO  2020-02-26 10:24:17,754 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2020-02-26 10:24:17,786 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 30.6388ms 301 
+INFO  2020-02-26 10:24:17,816 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2020-02-26 10:24:18,004 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 187.3135ms 200 text/html
+INFO  2020-02-26 10:24:18,061 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2020-02-26 10:24:18,072 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2020-02-26 10:24:18,081 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2020-02-26 10:24:18,086 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2020-02-26 10:24:18,096 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2020-02-26 10:24:18,126 [17   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'C:\Users\12496\Downloads\AbpTestPlus\4.8.0\aspnet-core\src\AbpTestPlus.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2020-02-26 10:24:18,131 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'C:\Users\12496\Downloads\AbpTestPlus\4.8.0\aspnet-core\src\AbpTestPlus.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2020-02-26 10:24:18,133 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 51.5063ms 200 application/javascript
+INFO  2020-02-26 10:24:18,135 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 39.0031ms 200 application/javascript
+INFO  2020-02-26 10:24:18,140 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2020-02-26 10:24:18,143 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 84.6484ms 200 text/css
+INFO  2020-02-26 10:24:18,155 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2020-02-26 10:24:18,166 [16   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2020-02-26 10:24:18,169 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 97.5562ms 200 application/javascript
+INFO  2020-02-26 10:24:18,172 [16   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 85.1811ms 200 application/javascript
+INFO  2020-02-26 10:24:19,887 [16   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-02-26 10:24:20,009 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2020-02-26 10:24:20,012 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2020-02-26 10:24:20,015 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 6.2759ms 200 image/png
+INFO  2020-02-26 10:24:20,106 [16   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 217.7557ms 200 application/json;charset=utf-8
